@@ -11,9 +11,9 @@
   "pre_installed": true
 },
 {
-  "manifest_version": 3,
+  "manifest_version": 38978,
   "name": "Privacy Sandbox Attestations",
   "version": "2024.8.23.0",
   "pre_installed": true
 }
-]
+  ]
